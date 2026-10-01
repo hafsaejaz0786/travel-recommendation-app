@@ -1,0 +1,54 @@
+{
+  "countries": [
+    {
+      "id": 1,
+      "name": "Australia",
+      "cities": [
+        {
+          "name": "Sydney, Australia",
+          "imageUrl": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=500",
+          "description": "A vibrant city known for the Iconic Sydney Opera House and Harbour Bridge."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Japan",
+      "cities": [
+        {
+          "name": "Tokyo, Japan",
+          "imageUrl": "https://images.unsplash.com/photo-1503899036084-c55cdd92da26?w=500",
+          "description": "A bustling metropolis blending modern skyscrapers with historic temples."
+        }
+      ]
+    }
+  ],
+  "temples": [
+    {
+      "id": 1,
+      "name": "Angkor Wat, Cambodia",
+      "imageUrl": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=500",
+      "description": "A massive temple complex built in the 12th century, famous for intricate carvings."
+    },
+    {
+      "id": 2,
+      "name": "Taj Mahal, India",
+      "imageUrl": "https://images.unsplash.com/photo-1564507592333-c60657eea523?w=500",
+      "description": "An iconic ivory-white marble mausoleum on the south bank of the Yamuna river."
+    }
+  ],
+  "beaches": [
+    {
+      "id": 1,
+      "name": "Bora Bora, French Polynesia",
+      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=500",
+      "description": "Famous for turquoise lagoons, overwater bungalows, and scuba diving."
+    },
+    {
+      "id": 2,
+      "name": "Copacabana, Brazil",
+      "imageUrl": "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=500",
+      "description": "A world-famous beach known for its vibrant atmosphere and golden sands."
+    }
+  ]
+}
